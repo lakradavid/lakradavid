@@ -1,7 +1,7 @@
 # Hi there, I'm David! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5B3B&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;E-commerce+Enthusiast;JavaScript+%26+CSS+Expert;Always+Learning+New+Tech!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF5B3B&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;E-commerce+Enthusiast;JavaScript+%26+CSS+Expert;Always+Learning+New+Tech!" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
