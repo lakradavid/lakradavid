@@ -34,15 +34,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakradavid&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="David's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lakradavid&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="David's GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakradavid&theme=radical&hide_border=true" alt="David's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=lakradavid&theme=radical&hide_border=true" alt="David's GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakradavid&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakradavid&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 ## 🏆 Featured Projects
@@ -73,6 +73,12 @@ const david = {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakradavid&theme=react-dark&hide_border=true&area=true" alt="David's Activity Graph" />
+</div>
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lakradavid&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ## 🤝 Connect with Me
